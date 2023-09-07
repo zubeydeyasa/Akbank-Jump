@@ -1,5 +1,6 @@
 # YetGen Jump & Akbank Backend Eğitim Programı
 ![akbanklogo](https://logos-world.net/wp-content/uploads/2021/02/Akbank-Symbol.png)
+![Yetgenlogo](https://yetkingencler.com/wp-content/uploads/2021/07/YetGenLogo.png)
 Yetgen 22'2 mezunuyum, ve şu programdan haberdar oldum. İki aşamalı bir eleme sürecinden geçerek, (motivasyon amacı-teknik yeterlilik) kabul aldım ve aldığım eğitimin içeriği :
 
 ### YetGen Jump & Akbank Backend Eğitim Programı
