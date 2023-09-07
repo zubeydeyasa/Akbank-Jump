@@ -1,0 +1,30 @@
+C:\Users\zubey\Desktop\YetGen Jump & Akbank Backend Eğitim Programı\bin\Debug\net6.0\YetGen Jump & Akbank Backend Eğitim Programı.exe
+C:\Users\zubey\Desktop\YetGen Jump & Akbank Backend Eğitim Programı\bin\Debug\net6.0\YetGen Jump & Akbank Backend Eğitim Programı.deps.json
+C:\Users\zubey\Desktop\YetGen Jump & Akbank Backend Eğitim Programı\bin\Debug\net6.0\YetGen Jump & Akbank Backend Eğitim Programı.runtimeconfig.json
+C:\Users\zubey\Desktop\YetGen Jump & Akbank Backend Eğitim Programı\bin\Debug\net6.0\YetGen Jump & Akbank Backend Eğitim Programı.dll
+C:\Users\zubey\Desktop\YetGen Jump & Akbank Backend Eğitim Programı\bin\Debug\net6.0\YetGen Jump & Akbank Backend Eğitim Programı.pdb
+C:\Users\zubey\Desktop\YetGen Jump & Akbank Backend Eğitim Programı\obj\Debug\net6.0\YetGen Jump & Akbank Backend Eğitim Programı.csproj.AssemblyReference.cache
+C:\Users\zubey\Desktop\YetGen Jump & Akbank Backend Eğitim Programı\obj\Debug\net6.0\YetGen Jump & Akbank Backend Eğitim Programı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zubey\Desktop\YetGen Jump & Akbank Backend Eğitim Programı\obj\Debug\net6.0\YetGen Jump & Akbank Backend Eğitim Programı.AssemblyInfoInputs.cache
+C:\Users\zubey\Desktop\YetGen Jump & Akbank Backend Eğitim Programı\obj\Debug\net6.0\YetGen Jump & Akbank Backend Eğitim Programı.AssemblyInfo.cs
+C:\Users\zubey\Desktop\YetGen Jump & Akbank Backend Eğitim Programı\obj\Debug\net6.0\YetGen Jump & Akbank Backend Eğitim Programı.csproj.CoreCompileInputs.cache
+C:\Users\zubey\Desktop\YetGen Jump & Akbank Backend Eğitim Programı\obj\Debug\net6.0\YetGen Jump & Akbank Backend Eğitim Programı.dll
+C:\Users\zubey\Desktop\YetGen Jump & Akbank Backend Eğitim Programı\obj\Debug\net6.0\refint\YetGen Jump & Akbank Backend Eğitim Programı.dll
+C:\Users\zubey\Desktop\YetGen Jump & Akbank Backend Eğitim Programı\obj\Debug\net6.0\YetGen Jump & Akbank Backend Eğitim Programı.pdb
+C:\Users\zubey\Desktop\YetGen Jump & Akbank Backend Eğitim Programı\obj\Debug\net6.0\YetGen Jump & Akbank Backend Eğitim Programı.genruntimeconfig.cache
+C:\Users\zubey\Desktop\YetGen Jump & Akbank Backend Eğitim Programı\obj\Debug\net6.0\ref\YetGen Jump & Akbank Backend Eğitim Programı.dll
+C:\Users\zubey\Desktop\00_Akbank\bin\Debug\net6.0\YetGen Jump & Akbank Backend Eğitim Programı.exe
+C:\Users\zubey\Desktop\00_Akbank\bin\Debug\net6.0\YetGen Jump & Akbank Backend Eğitim Programı.deps.json
+C:\Users\zubey\Desktop\00_Akbank\bin\Debug\net6.0\YetGen Jump & Akbank Backend Eğitim Programı.runtimeconfig.json
+C:\Users\zubey\Desktop\00_Akbank\bin\Debug\net6.0\YetGen Jump & Akbank Backend Eğitim Programı.dll
+C:\Users\zubey\Desktop\00_Akbank\bin\Debug\net6.0\YetGen Jump & Akbank Backend Eğitim Programı.pdb
+C:\Users\zubey\Desktop\00_Akbank\obj\Debug\net6.0\YetGen Jump & Akbank Backend Eğitim Programı.csproj.AssemblyReference.cache
+C:\Users\zubey\Desktop\00_Akbank\obj\Debug\net6.0\YetGen Jump & Akbank Backend Eğitim Programı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zubey\Desktop\00_Akbank\obj\Debug\net6.0\YetGen Jump & Akbank Backend Eğitim Programı.AssemblyInfoInputs.cache
+C:\Users\zubey\Desktop\00_Akbank\obj\Debug\net6.0\YetGen Jump & Akbank Backend Eğitim Programı.AssemblyInfo.cs
+C:\Users\zubey\Desktop\00_Akbank\obj\Debug\net6.0\YetGen Jump & Akbank Backend Eğitim Programı.csproj.CoreCompileInputs.cache
+C:\Users\zubey\Desktop\00_Akbank\obj\Debug\net6.0\YetGen Jump & Akbank Backend Eğitim Programı.dll
+C:\Users\zubey\Desktop\00_Akbank\obj\Debug\net6.0\refint\YetGen Jump & Akbank Backend Eğitim Programı.dll
+C:\Users\zubey\Desktop\00_Akbank\obj\Debug\net6.0\YetGen Jump & Akbank Backend Eğitim Programı.pdb
+C:\Users\zubey\Desktop\00_Akbank\obj\Debug\net6.0\YetGen Jump & Akbank Backend Eğitim Programı.genruntimeconfig.cache
+C:\Users\zubey\Desktop\00_Akbank\obj\Debug\net6.0\ref\YetGen Jump & Akbank Backend Eğitim Programı.dll
